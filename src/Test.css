@@ -1,0 +1,31 @@
+
+.list {
+    padding-top: 0px;
+    padding-left: 20px
+}
+.list li{
+    line-height: 30px;
+    list-style: none;
+}
+
+.header {
+    height: 50px;
+    line-height: 50px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.header button{
+    margin-left: 10px;
+    background-color: bisque
+}
+
+.header .ant-input {
+    margin-left: 10px;
+    width: 15%;
+
+}
+.h2style{
+   position: relative;
+   left: 20px;
+}
